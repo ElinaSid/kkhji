@@ -60,3 +60,19 @@ ul {
 main img {
     border-radius: 20px;
 }
+
+footer {
+    background-color: #48AF3A;
+}
+footer img {
+    margin: 5px;
+}
+
+footer h1 {
+    color: white;
+    font-size: 25px;
+}
+
+footer h2 {
+    color:white;
+}
