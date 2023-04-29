@@ -1,0 +1,62 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #48AF3A;
+    padding: 20px;
+}
+
+header img {
+    border: 3px solid white;
+    border-radius: 30px;
+}
+
+.sales {
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    padding: 7px;
+    margin: 50px;
+}
+
+.shops {
+    color: black;
+    border: 2px solid #ff671f;
+    padding: 7px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.orders {
+    color: black;
+    border: 2px solid #ff671f;
+    padding: 7px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+
+.pk {
+    color: black;
+    border: 2px solid #ff671f;
+    padding: 7px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+main h1 {
+    color: #277C16;
+    text-align: center;
+}
+
+ul {
+    color: black;
+}
+
+main img {
+    border-radius: 20px;
+}
